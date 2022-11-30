@@ -13,5 +13,8 @@ h3, h4 {
     color: rgb(65, 16, 110);
 }
 .experiences{
-    color: rgba(216, 15, 15, 0.842);
+    color: blue;
+}
+.edu_comp{
+    color: blue;
 }
