@@ -1,6 +1,10 @@
 body{
     background-color: rgb(175, 241, 241);
     font-style: italic;
+    
+}
+p{
+    color: blueviolet;
 }
 
 h1{
