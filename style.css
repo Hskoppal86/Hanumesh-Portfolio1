@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(175, 241, 241);
+    font-style: italic;
+}
+
+h1{
+
+    font-family: georgia;
+    color: rgb(65, 16, 110);
+}
+h3, h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(65, 16, 110);
+}
+.experiences{
+    color: rgba(216, 15, 15, 0.842);
+}
